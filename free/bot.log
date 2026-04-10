@@ -1,0 +1,530 @@
+2026-03-21 00:46:44,263 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-03-21 00:46:44,264 - WARNING - davey is not installed, voice will NOT be supported
+2026-03-21 00:46:44,270 - INFO - logging in using static token
+2026-03-21 00:49:54,335 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-03-21 00:49:54,336 - WARNING - davey is not installed, voice will NOT be supported
+2026-03-21 00:49:54,339 - INFO - logging in using static token
+2026-03-21 00:49:55,020 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 00:49:55,083 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 00:49:55,106 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 00:49:55,107 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 00:49:55,108 - INFO - Scheduler started
+2026-03-21 00:49:55,110 - INFO - Running job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 02:49:54 CET)" (scheduled at 2026-03-21 00:49:54.992466+01:00)
+2026-03-21 00:49:55,111 - INFO - Démarrage de la collecte...
+2026-03-21 00:50:01,827 - INFO - Shard ID None has connected to Gateway (Session ID: 420dfc8243729bfaeb38932bd1e1c909).
+2026-03-21 00:50:03,323 - INFO - Collecte terminée
+2026-03-21 00:50:03,324 - INFO - Job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 02:49:54 CET)" executed successfully
+2026-03-21 00:50:03,860 - INFO - Bot connecté en tant que CATY#0833
+2026-03-21 01:01:09,662 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-03-21 01:01:09,663 - WARNING - davey is not installed, voice will NOT be supported
+2026-03-21 01:01:09,668 - INFO - logging in using static token
+2026-03-21 01:01:10,167 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 01:01:10,182 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 01:01:10,186 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 01:01:10,187 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 01:01:10,187 - INFO - Scheduler started
+2026-03-21 01:01:10,190 - INFO - Running job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 03:01:10 CET)" (scheduled at 2026-03-21 01:01:10.164566+01:00)
+2026-03-21 01:01:10,191 - INFO - Démarrage de la collecte...
+2026-03-21 01:01:15,968 - INFO - Shard ID None has connected to Gateway (Session ID: f28faae60f3bf49db9110d9a7eebb5be).
+2026-03-21 01:01:17,198 - INFO - Collecte terminée
+2026-03-21 01:01:17,199 - INFO - Job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 03:01:10 CET)" executed successfully
+2026-03-21 01:01:17,986 - INFO - Bot connecté en tant que CATY#0833
+2026-03-21 01:06:41,169 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-03-21 01:06:41,170 - WARNING - davey is not installed, voice will NOT be supported
+2026-03-21 01:06:41,174 - INFO - logging in using static token
+2026-03-21 01:06:41,709 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 01:06:41,724 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 01:06:41,727 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 01:06:41,728 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 01:06:41,729 - INFO - Scheduler started
+2026-03-21 01:06:41,732 - INFO - Running job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 03:06:41 CET)" (scheduled at 2026-03-21 01:06:41.705845+01:00)
+2026-03-21 01:06:41,733 - INFO - Démarrage de la collecte...
+2026-03-21 01:06:47,789 - INFO - Shard ID None has connected to Gateway (Session ID: d1b0afa2c20ab8de5f2e78c8b7c3cc15).
+2026-03-21 01:06:49,822 - INFO - Bot connecté en tant que CATY#0833
+2026-03-21 01:06:50,133 - INFO - Collecte terminée
+2026-03-21 01:06:50,134 - INFO - Job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 03:06:41 CET)" executed successfully
+2026-03-21 01:58:42,786 - INFO - Shard ID None has successfully RESUMED session d1b0afa2c20ab8de5f2e78c8b7c3cc15.
+2026-03-21 10:34:53,580 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-03-21 10:34:53,582 - WARNING - davey is not installed, voice will NOT be supported
+2026-03-21 10:34:53,598 - INFO - logging in using static token
+2026-03-21 10:34:55,729 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 10:34:55,820 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 10:34:55,842 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 10:34:55,843 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 10:34:55,843 - INFO - Scheduler started
+2026-03-21 10:34:55,846 - INFO - Running job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 12:34:55 CET)" (scheduled at 2026-03-21 10:34:55.705981+01:00)
+2026-03-21 10:34:55,846 - INFO - Démarrage de la collecte...
+2026-03-21 10:35:02,603 - INFO - Shard ID None has connected to Gateway (Session ID: e25e221b7f0246b64f31228ebb038797).
+2026-03-21 10:35:03,727 - INFO - Collecte terminée
+2026-03-21 10:35:03,728 - INFO - Job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 12:34:55 CET)" executed successfully
+2026-03-21 10:35:04,657 - INFO - Bot connecté en tant que CATY#0833
+2026-03-21 12:08:41,078 - INFO - Shard ID None has successfully RESUMED session e25e221b7f0246b64f31228ebb038797.
+2026-03-21 15:52:45,041 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-03-21 15:52:45,043 - WARNING - davey is not installed, voice will NOT be supported
+2026-03-21 15:52:45,054 - INFO - logging in using static token
+2026-03-21 15:52:45,774 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 15:52:45,839 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 15:52:45,857 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 15:52:45,858 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 15:52:45,859 - INFO - Scheduler started
+2026-03-21 15:52:45,861 - INFO - Running job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 17:52:45 CET)" (scheduled at 2026-03-21 15:52:45.745819+01:00)
+2026-03-21 15:52:45,861 - INFO - Démarrage de la collecte...
+2026-03-21 15:52:54,427 - INFO - Shard ID None has connected to Gateway (Session ID: 1acd85512a0f01aeef4d517562ed5b9c).
+2026-03-21 15:52:56,069 - INFO - Collecte terminée
+2026-03-21 15:52:56,069 - INFO - Job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 17:52:45 CET)" executed successfully
+2026-03-21 15:52:56,473 - INFO - Bot connecté en tant que CATY#0833
+2026-03-21 17:43:12,983 - INFO - logging in using static token
+2026-03-21 17:43:13,697 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 17:43:13,756 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 17:43:13,784 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 17:43:13,785 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 17:43:13,785 - INFO - Scheduler started
+2026-03-21 17:43:13,788 - INFO - Running job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 19:43:13 CET)" (scheduled at 2026-03-21 17:43:13.676041+01:00)
+2026-03-21 17:43:13,789 - INFO - Démarrage de la collecte...
+2026-03-21 17:43:19,962 - INFO - Shard ID None has connected to Gateway (Session ID: 2223d49609bc81aca95232b2ef95f37a).
+2026-03-21 17:43:22,008 - INFO - Bot connecté en tant que CATY#0833
+2026-03-21 17:43:22,066 - INFO - Collecte terminée
+2026-03-21 17:43:22,067 - INFO - Job "DealBot.run_collection (trigger: interval[2:00:00], next run at: 2026-03-21 19:43:13 CET)" executed successfully
+2026-03-21 17:55:23,482 - INFO - logging in using static token
+2026-03-21 17:55:24,009 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 17:55:24,028 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 17:55:24,030 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 17:55:24,032 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 17:55:24,033 - INFO - Scheduler started
+2026-03-21 17:55:24,036 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 18:55:24 CET)" (scheduled at 2026-03-21 17:55:24.006610+01:00)
+2026-03-21 17:55:24,037 - INFO - Démarrage de la collecte...
+2026-03-21 17:55:30,245 - INFO - Shard ID None has connected to Gateway (Session ID: 2373a616a3c24f6a0f102a7a461c2263).
+2026-03-21 17:55:31,493 - INFO - Collecte terminée
+2026-03-21 17:55:31,494 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 18:55:24 CET)" executed successfully
+2026-03-21 17:55:32,270 - INFO - Bot connecté en tant que CATY#0833
+2026-03-21 18:30:53,369 - INFO - Shard ID None has successfully RESUMED session 2373a616a3c24f6a0f102a7a461c2263.
+2026-03-21 18:55:24,406 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 19:55:24 CET)" (scheduled at 2026-03-21 18:55:24.006610+01:00)
+2026-03-21 18:55:24,572 - INFO - Démarrage de la collecte...
+2026-03-21 18:55:40,671 - INFO - Collecte terminée
+2026-03-21 18:55:40,673 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 19:55:24 CET)" executed successfully
+2026-03-21 19:34:26,860 - INFO - logging in using static token
+2026-03-21 19:34:27,640 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 19:34:27,725 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 19:34:27,751 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 19:34:27,752 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 19:34:27,752 - INFO - Scheduler started
+2026-03-21 19:34:27,757 - INFO - Removed job 0f21f5a2bc784b9580e4326ddf71b0ca
+2026-03-21 19:34:27,758 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 19:34:27 CET)" (scheduled at 2026-03-21 19:34:27.609395+01:00)
+2026-03-21 19:34:27,758 - INFO - Démarrage de la collecte...
+2026-03-21 19:34:40,696 - INFO - Shard ID None has connected to Gateway (Session ID: 11a484b5d5bb788cbc7bbcc93ebf1932).
+2026-03-21 19:34:42,771 - INFO - Bot connecté en tant que CATY#0833
+2026-03-21 19:34:43,721 - INFO - Collecte terminée
+2026-03-21 19:34:43,722 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 19:34:27 CET)" executed successfully
+2026-03-21 19:50:55,201 - INFO - logging in using static token
+2026-03-21 19:51:16,944 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 19:51:19,404 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 19:51:20,223 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 19:51:21,697 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 19:51:21,698 - INFO - Scheduler started
+2026-03-21 19:51:21,700 - INFO - Removed job 6211d48efd5c487ca03e824622dbfff2
+2026-03-21 19:51:22,883 - WARNING - Run time of job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 19:51:16 CET)" was missed by 0:00:06.081707
+2026-03-21 19:51:30,716 - INFO - Shard ID None has connected to Gateway (Session ID: 246849f088bbcd9ead8843c3a38f2d7d).
+2026-03-21 19:51:33,063 - INFO - Bot connecté en tant que CATY#0833
+2026-03-21 22:01:10,718 - INFO - Shard ID None has successfully RESUMED session 246849f088bbcd9ead8843c3a38f2d7d.
+2026-03-21 22:28:53,730 - INFO - Shard ID None has successfully RESUMED session 246849f088bbcd9ead8843c3a38f2d7d.
+2026-03-21 23:42:16,093 - INFO - logging in using static token
+2026-03-21 23:42:16,880 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 23:42:16,997 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 23:42:17,031 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 23:42:17,036 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 23:42:17,039 - INFO - Scheduler started
+2026-03-21 23:42:17,050 - INFO - Removed job 5115e719d8804da0a514314e010e31c8
+2026-03-21 23:42:17,069 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 23:42:16 CET)" (scheduled at 2026-03-21 23:42:16.855137+01:00)
+2026-03-21 23:42:17,071 - INFO - Démarrage de la collecte...
+2026-03-21 23:42:33,333 - INFO - Shard ID None has connected to Gateway (Session ID: faa83af4a622f2492b2bb6e84f55df4a).
+2026-03-21 23:42:36,043 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-21 23:42:36,480 - INFO - Collecte terminée
+2026-03-21 23:42:36,987 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 23:42:16 CET)" executed successfully
+2026-03-21 23:43:29,270 - ERROR - Ignoring exception in command 'rapport_now'
+Traceback (most recent call last):
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adamo\Desktop\free\bot.py", line 108, in rapport_now
+    await send_daily_report(client, channel_override=await interaction.user.create_dm())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: send_daily_report() got an unexpected keyword argument 'channel_override'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 873, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rapport_now' raised an exception: TypeError: send_daily_report() got an unexpected keyword argument 'channel_override'
+2026-03-21 23:47:35,701 - INFO - logging in using static token
+2026-03-21 23:47:36,290 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 23:47:36,317 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 23:47:36,325 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 23:47:36,330 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 23:47:36,331 - INFO - Scheduler started
+2026-03-21 23:47:36,336 - INFO - Removed job 24aaeefd6f2844a18999ca57f8aa4c5a
+2026-03-21 23:47:36,338 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 23:47:36 CET)" (scheduled at 2026-03-21 23:47:36.285643+01:00)
+2026-03-21 23:47:36,339 - INFO - Démarrage de la collecte...
+2026-03-21 23:47:43,145 - INFO - Shard ID None has connected to Gateway (Session ID: 798dd913ecd109e4895edcf50f3be11e).
+2026-03-21 23:47:44,623 - INFO - Collecte terminée
+2026-03-21 23:47:45,180 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-21 23:47:45,397 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 23:47:36 CET)" executed successfully
+2026-03-21 23:48:27,999 - ERROR - Ignoring exception in command 'rapport_now'
+Traceback (most recent call last):
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adamo\Desktop\free\bot.py", line 108, in rapport_now
+    await send_daily_report(client, channel_override=await interaction.user.create_dm())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: send_daily_report() got an unexpected keyword argument 'channel_override'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 873, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rapport_now' raised an exception: TypeError: send_daily_report() got an unexpected keyword argument 'channel_override'
+2026-03-21 23:48:39,759 - ERROR - Ignoring exception in command 'rapport_now'
+Traceback (most recent call last):
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adamo\Desktop\free\bot.py", line 108, in rapport_now
+    await send_daily_report(client, channel_override=await interaction.user.create_dm())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: send_daily_report() got an unexpected keyword argument 'channel_override'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 873, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rapport_now' raised an exception: TypeError: send_daily_report() got an unexpected keyword argument 'channel_override'
+2026-03-21 23:50:23,936 - INFO - logging in using static token
+2026-03-21 23:50:24,853 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 23:50:24,908 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-21 23:50:24,921 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-21 23:50:24,923 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-21 23:50:24,924 - INFO - Scheduler started
+2026-03-21 23:50:24,925 - INFO - Removed job 3827a39a74124d048de60c8b96d369c4
+2026-03-21 23:50:24,926 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 23:50:24 CET)" (scheduled at 2026-03-21 23:50:24.842194+01:00)
+2026-03-21 23:50:24,926 - INFO - Démarrage de la collecte...
+2026-03-21 23:50:32,053 - INFO - Shard ID None has connected to Gateway (Session ID: 00a673e4d4c5d22aa5827be6f1bb3203).
+2026-03-21 23:50:34,050 - INFO - Collecte terminée
+2026-03-21 23:50:34,077 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-21 23:50:34,643 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-21 23:50:24 CET)" executed successfully
+2026-03-22 00:19:47,912 - INFO - logging in using static token
+2026-03-22 00:19:48,662 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 00:19:48,678 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 00:19:48,682 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 00:19:48,684 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 00:19:48,685 - INFO - Scheduler started
+2026-03-22 00:19:48,688 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 01:19:48 CET)" (scheduled at 2026-03-22 00:19:48.643488+01:00)
+2026-03-22 00:19:48,689 - INFO - Démarrage de la collecte...
+2026-03-22 00:19:54,496 - INFO - Shard ID None has connected to Gateway (Session ID: e0e74b583c66f902555260da375cc7cc).
+2026-03-22 00:19:56,524 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 00:19:57,038 - INFO - Collecte terminée
+2026-03-22 00:19:58,029 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 01:19:48 CET)" executed successfully
+2026-03-22 00:22:27,152 - INFO - logging in using static token
+2026-03-22 00:22:27,700 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 00:22:27,713 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 00:22:27,717 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 00:22:27,718 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 00:22:27,719 - INFO - Scheduler started
+2026-03-22 00:22:27,723 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 01:22:27 CET)" (scheduled at 2026-03-22 00:22:27.697071+01:00)
+2026-03-22 00:22:27,725 - INFO - Démarrage de la collecte...
+2026-03-22 00:22:36,062 - INFO - Shard ID None has connected to Gateway (Session ID: 61861984414ff9d92ad13f4c1dae1052).
+2026-03-22 00:22:38,118 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 00:22:38,843 - INFO - Collecte terminée
+2026-03-22 00:22:39,624 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 01:22:27 CET)" executed successfully
+2026-03-22 00:25:50,865 - INFO - logging in using static token
+2026-03-22 00:25:51,422 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 00:25:51,435 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 00:25:51,438 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 00:25:51,439 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 00:25:51,439 - INFO - Scheduler started
+2026-03-22 00:25:51,442 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 01:25:51 CET)" (scheduled at 2026-03-22 00:25:51.419581+01:00)
+2026-03-22 00:25:51,442 - INFO - Démarrage de la collecte...
+2026-03-22 00:25:57,379 - INFO - Shard ID None has connected to Gateway (Session ID: 3fd12cda4ad5b10aaa4c10597d086483).
+2026-03-22 00:25:59,421 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 00:25:59,916 - INFO - Collecte terminée
+2026-03-22 00:26:00,535 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 01:25:51 CET)" executed successfully
+2026-03-22 00:46:51,581 - INFO - logging in using static token
+2026-03-22 00:46:52,234 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 00:46:52,253 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 00:46:52,258 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 00:46:52,259 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 00:46:52,260 - INFO - Scheduler started
+2026-03-22 00:46:52,262 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 01:46:52 CET)" (scheduled at 2026-03-22 00:46:52.228699+01:00)
+2026-03-22 00:46:52,263 - INFO - Démarrage de la collecte...
+2026-03-22 00:46:58,906 - INFO - Shard ID None has connected to Gateway (Session ID: 38ccafa5a3cddfc123fabff2aa79ab3c).
+2026-03-22 00:47:00,957 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 00:47:01,493 - INFO - Collecte terminée
+2026-03-22 00:47:02,556 - ERROR - Erreur lors de la collecte: name 'SubscribeButton' is not defined
+2026-03-22 00:47:02,557 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 01:46:52 CET)" executed successfully
+2026-03-22 01:16:06,761 - INFO - logging in using static token
+2026-03-22 01:16:07,543 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 01:16:07,564 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 01:16:07,568 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 01:16:07,569 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 01:16:07,570 - INFO - Scheduler started
+2026-03-22 01:16:07,572 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 02:16:07 CET)" (scheduled at 2026-03-22 01:16:07.539816+01:00)
+2026-03-22 01:16:07,573 - INFO - Démarrage de la collecte...
+2026-03-22 01:16:14,481 - INFO - Shard ID None has connected to Gateway (Session ID: 6ee96343f5a5adf364d8b0b26a6b38d9).
+2026-03-22 01:16:16,519 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 01:16:17,478 - INFO - Collecte terminée
+2026-03-22 01:16:18,345 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 02:16:07 CET)" executed successfully
+2026-03-22 11:54:20,560 - INFO - logging in using static token
+2026-03-22 11:54:21,610 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 11:54:21,696 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 11:54:21,726 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 11:54:21,728 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 11:54:21,729 - INFO - Scheduler started
+2026-03-22 11:54:21,731 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 12:54:21 CET)" (scheduled at 2026-03-22 11:54:21.584568+01:00)
+2026-03-22 11:54:21,733 - INFO - Démarrage de la collecte...
+2026-03-22 11:54:30,280 - INFO - Shard ID None has connected to Gateway (Session ID: 9d69345768ea6e7ec681c028ac4df031).
+2026-03-22 11:54:32,224 - INFO - Collecte terminée
+2026-03-22 11:54:32,426 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 11:54:33,481 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 12:54:21 CET)" executed successfully
+2026-03-22 12:17:12,383 - INFO - logging in using static token
+2026-03-22 12:17:13,199 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 12:17:13,265 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 12:17:13,288 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 12:17:13,289 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 12:17:13,289 - INFO - Scheduler started
+2026-03-22 12:17:13,292 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 13:17:13 CET)" (scheduled at 2026-03-22 12:17:13.174771+01:00)
+2026-03-22 12:17:13,293 - INFO - Démarrage de la collecte...
+2026-03-22 12:17:19,571 - INFO - Shard ID None has connected to Gateway (Session ID: b4d8130d9aeecf39bb5c4f24dad7b1eb).
+2026-03-22 12:17:21,335 - INFO - Collecte terminée
+2026-03-22 12:17:21,599 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 12:17:24,518 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 13:17:13 CET)" executed successfully
+2026-03-22 12:22:47,604 - INFO - logging in using static token
+2026-03-22 12:22:48,182 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 12:22:48,218 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 12:22:48,230 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 12:22:48,231 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 12:22:48,232 - INFO - Scheduler started
+2026-03-22 12:22:48,241 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 13:22:48 CET)" (scheduled at 2026-03-22 12:22:48.171824+01:00)
+2026-03-22 12:22:48,243 - INFO - Démarrage de la collecte...
+2026-03-22 12:22:55,255 - INFO - Shard ID None has connected to Gateway (Session ID: 7951992f3bc6a21aace68189da296c27).
+2026-03-22 12:22:57,306 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 12:22:57,438 - INFO - Collecte terminée
+2026-03-22 12:22:58,345 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 13:22:48 CET)" executed successfully
+2026-03-22 12:32:15,087 - INFO - logging in using static token
+2026-03-22 12:32:15,624 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 12:32:15,643 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 12:32:15,650 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 12:32:15,651 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 12:32:15,651 - INFO - Scheduler started
+2026-03-22 12:32:15,655 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 13:32:15 CET)" (scheduled at 2026-03-22 12:32:15.619573+01:00)
+2026-03-22 12:32:15,657 - INFO - Démarrage de la collecte...
+2026-03-22 12:32:23,770 - INFO - Shard ID None has connected to Gateway (Session ID: ae6d20216013cdc893c713b4a70303cf).
+2026-03-22 12:32:25,802 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 12:32:26,591 - INFO - Collecte terminée
+2026-03-22 12:32:27,263 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 13:32:15 CET)" executed successfully
+2026-03-22 12:41:17,397 - INFO - logging in using static token
+2026-03-22 12:41:19,063 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 12:41:19,084 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 12:41:19,089 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 12:41:19,090 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 12:41:19,090 - INFO - Scheduler started
+2026-03-22 12:41:19,094 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 13:41:19 CET)" (scheduled at 2026-03-22 12:41:19.059152+01:00)
+2026-03-22 12:41:19,094 - INFO - Démarrage de la collecte...
+2026-03-22 12:41:27,807 - INFO - Shard ID None has connected to Gateway (Session ID: 3059cb5d8e0999e62d9e816c05c2cd76).
+2026-03-22 12:41:29,818 - INFO - Collecte terminée
+2026-03-22 12:41:29,852 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 12:41:30,939 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 13:41:19 CET)" executed successfully
+2026-03-22 13:11:56,655 - INFO - logging in using static token
+2026-03-22 13:11:57,406 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 13:11:57,425 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 13:11:57,430 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 13:11:57,431 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 13:11:57,432 - INFO - Scheduler started
+2026-03-22 13:11:57,439 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 14:11:57 CET)" (scheduled at 2026-03-22 13:11:57.401742+01:00)
+2026-03-22 13:11:57,440 - INFO - Démarrage de la collecte...
+2026-03-22 13:12:04,751 - INFO - Shard ID None has connected to Gateway (Session ID: b734c715febc87070a3541cffe970161).
+2026-03-22 13:12:06,558 - INFO - Collecte terminée
+2026-03-22 13:12:06,785 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 13:12:07,319 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 14:11:57 CET)" executed successfully
+2026-03-22 13:28:52,905 - INFO - Shard ID None has successfully RESUMED session b734c715febc87070a3541cffe970161.
+2026-03-22 13:51:17,824 - INFO - logging in using static token
+2026-03-22 13:51:18,356 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 13:51:18,382 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 13:51:18,388 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 13:51:18,390 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 13:51:18,391 - INFO - Scheduler started
+2026-03-22 13:51:18,394 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 14:51:18 CET)" (scheduled at 2026-03-22 13:51:18.350063+01:00)
+2026-03-22 13:51:18,398 - INFO - Démarrage de la collecte...
+2026-03-22 13:51:25,620 - INFO - Shard ID None has connected to Gateway (Session ID: aced82e3bc051597179792097ce2f112).
+2026-03-22 13:51:26,770 - INFO - Collecte terminée
+2026-03-22 13:51:27,643 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 13:51:27,946 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 14:51:18 CET)" executed successfully
+2026-03-22 13:52:24,370 - INFO - logging in using static token
+2026-03-22 13:52:24,855 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 13:52:24,862 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 13:52:24,864 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 13:52:24,864 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 13:52:24,865 - INFO - Scheduler started
+2026-03-22 13:52:24,866 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 14:52:24 CET)" (scheduled at 2026-03-22 13:52:24.853470+01:00)
+2026-03-22 13:52:24,867 - INFO - Démarrage de la collecte...
+2026-03-22 13:52:45,370 - INFO - Shard ID None has connected to Gateway (Session ID: 1bc6bd444aface678222209532e959bd).
+2026-03-22 13:52:47,434 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 13:52:47,759 - INFO - Collecte terminée
+2026-03-22 13:52:48,326 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 14:52:24 CET)" executed successfully
+2026-03-22 13:56:25,851 - INFO - logging in using static token
+2026-03-22 13:56:26,384 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 13:56:26,401 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 13:56:26,408 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 13:56:26,409 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 13:56:26,410 - INFO - Scheduler started
+2026-03-22 13:56:26,412 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 14:56:26 CET)" (scheduled at 2026-03-22 13:56:26.381064+01:00)
+2026-03-22 13:56:26,415 - INFO - Démarrage de la collecte...
+2026-03-22 13:56:32,472 - INFO - Shard ID None has connected to Gateway (Session ID: 18e44be0dfdcadf9e2afce5d5bdd78d3).
+2026-03-22 13:56:33,806 - INFO - Collecte terminée
+2026-03-22 13:56:34,396 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 14:56:26 CET)" executed successfully
+2026-03-22 13:56:34,490 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 13:56:54,146 - INFO - logging in using static token
+2026-03-22 13:56:54,675 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 13:56:54,685 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 13:56:54,686 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 13:56:54,687 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 13:56:54,689 - INFO - Scheduler started
+2026-03-22 13:56:54,692 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 14:56:54 CET)" (scheduled at 2026-03-22 13:56:54.672754+01:00)
+2026-03-22 13:56:54,693 - INFO - Démarrage de la collecte...
+2026-03-22 13:57:04,651 - INFO - Collecte terminée
+2026-03-22 13:57:05,502 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 14:56:54 CET)" executed successfully
+2026-03-22 13:57:32,445 - INFO - Shard ID None has connected to Gateway (Session ID: 8a2b0adcb927060ebd2d32652a3801d0).
+2026-03-22 13:57:34,519 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 14:06:03,035 - INFO - logging in using static token
+2026-03-22 14:06:03,717 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 14:06:03,739 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 14:06:03,745 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 14:06:03,746 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 14:06:03,747 - INFO - Scheduler started
+2026-03-22 14:06:03,750 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 15:06:03 CET)" (scheduled at 2026-03-22 14:06:03.712340+01:00)
+2026-03-22 14:06:03,751 - INFO - Démarrage de la collecte...
+2026-03-22 14:06:10,674 - INFO - Shard ID None has connected to Gateway (Session ID: 0c7bb184c999a7b26c85942e83f6cf7b).
+2026-03-22 14:06:12,714 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 14:06:16,300 - INFO - Collecte terminée
+2026-03-22 14:06:17,372 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 15:06:03 CET)" executed successfully
+2026-03-22 14:12:05,831 - INFO - logging in using static token
+2026-03-22 14:12:06,553 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 14:12:06,572 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 14:12:06,576 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 14:12:06,577 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 14:12:06,578 - INFO - Scheduler started
+2026-03-22 14:12:06,582 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 15:12:06 CET)" (scheduled at 2026-03-22 14:12:06.538763+01:00)
+2026-03-22 14:12:06,583 - INFO - Démarrage de la collecte...
+2026-03-22 14:12:13,101 - INFO - Shard ID None has connected to Gateway (Session ID: b96a3dc4bbe6251e68fab159e3232555).
+2026-03-22 14:12:15,131 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 14:12:15,745 - INFO - Collecte terminée
+2026-03-22 14:12:16,273 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 15:12:06 CET)" executed successfully
+2026-03-22 14:39:26,838 - INFO - logging in using static token
+2026-03-22 14:39:28,431 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 14:39:28,455 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 14:39:28,467 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 14:39:28,486 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 14:39:28,486 - INFO - Scheduler started
+2026-03-22 14:39:28,488 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 15:39:28 CET)" (scheduled at 2026-03-22 14:39:28.428171+01:00)
+2026-03-22 14:39:28,489 - INFO - Démarrage de la collecte...
+2026-03-22 14:39:37,965 - INFO - Shard ID None has connected to Gateway (Session ID: fa9347de3789ebd52dd584c14323b85b).
+2026-03-22 14:39:40,252 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 14:39:41,549 - INFO - Collecte terminée
+2026-03-22 14:39:43,466 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 15:39:28 CET)" executed successfully
+2026-03-22 15:17:57,551 - INFO - Shard ID None has successfully RESUMED session fa9347de3789ebd52dd584c14323b85b.
+2026-03-22 15:39:28,526 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 16:39:28 CET)" (scheduled at 2026-03-22 15:39:28.428171+01:00)
+2026-03-22 15:39:28,557 - INFO - Démarrage de la collecte...
+2026-03-22 15:39:38,368 - INFO - Collecte terminée
+2026-03-22 15:39:40,003 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 16:39:28 CET)" executed successfully
+2026-03-22 15:57:03,662 - INFO - logging in using static token
+2026-03-22 15:57:04,513 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 15:57:04,571 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 15:57:04,598 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-22 15:57:04,599 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-22 15:57:04,599 - INFO - Scheduler started
+2026-03-22 15:57:04,602 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 16:57:04 CET)" (scheduled at 2026-03-22 15:57:04.486959+01:00)
+2026-03-22 15:57:04,603 - INFO - Démarrage de la collecte...
+2026-03-22 15:57:11,010 - INFO - Shard ID None has connected to Gateway (Session ID: 3a81763b6b2ee624e2421cb7884dab32).
+2026-03-22 15:57:12,666 - INFO - Collecte terminée
+2026-03-22 15:57:13,037 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-22 15:57:15,025 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-22 16:57:04 CET)" executed successfully
+2026-03-24 21:48:15,067 - INFO - logging in using static token
+2026-03-24 21:48:16,026 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-24 21:48:16,099 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-24 21:48:16,129 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-24 21:48:16,130 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-24 21:48:16,131 - INFO - Scheduler started
+2026-03-24 21:48:16,134 - INFO - Removed job 789ba2dd5e2c412293199dd6aa046f51
+2026-03-24 21:48:16,138 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-24 21:48:16 CET)" (scheduled at 2026-03-24 21:48:16.003333+01:00)
+2026-03-24 21:48:16,140 - INFO - Démarrage de la collecte...
+2026-03-24 21:48:22,956 - INFO - Shard ID None has connected to Gateway (Session ID: 79b244b3a7cd397bf33afd7c54c3565a).
+2026-03-24 21:48:24,995 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-24 21:48:25,517 - INFO - Collecte terminée
+2026-03-24 21:48:26,337 - ERROR - Erreur envoi MP à 1382102501813125304: 'reward'
+2026-03-24 21:48:26,988 - ERROR - Erreur envoi MP à 1471964385294680369: 'reward'
+2026-03-24 21:48:27,503 - ERROR - Erreur lors de la collecte: 'reward'
+2026-03-24 21:48:27,505 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-24 21:48:16 CET)" executed successfully
+2026-03-24 23:14:12,454 - ERROR - Ignoring exception in command 'rapport_now'
+Traceback (most recent call last):
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adamo\Desktop\free\bot.py", line 123, in rapport_now
+    await send_daily_report(client, channel_override=dm, show_subscribe=True)
+  File "C:\Users\adamo\Desktop\free\tasks_daily_report.py", line 77, in send_daily_report
+    value = f"Récompense: {c['reward']}\nSource: {c['source']}\n[Pour en savoir plus]({c['url']})"
+                           ~^^^^^^^^^^
+KeyError: 'reward'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adamo\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rapport_now' raised an exception: KeyError: 'reward'
+2026-03-25 13:35:16,883 - INFO - logging in using static token
+2026-03-25 13:35:17,880 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-25 13:35:17,940 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-25 13:35:17,958 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-25 13:35:17,959 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-25 13:35:17,960 - INFO - Scheduler started
+2026-03-25 13:35:17,962 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-25 14:35:17 CET)" (scheduled at 2026-03-25 13:35:17.863381+01:00)
+2026-03-25 13:35:17,963 - INFO - Démarrage de la collecte...
+2026-03-25 13:35:26,313 - INFO - Shard ID None has connected to Gateway (Session ID: 7e8ffc1e13d9c3cb050aae46208694b5).
+2026-03-25 13:35:27,804 - INFO - Collecte terminée
+2026-03-25 13:35:28,351 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-25 13:35:30,033 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-25 14:35:17 CET)" executed successfully
+2026-03-29 21:42:38,052 - INFO - logging in using static token
+2026-03-29 21:42:38,932 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-29 21:42:39,004 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-29 21:42:39,030 - INFO - Added job "DealBot.run_collection" to job store "default"
+2026-03-29 21:42:39,032 - INFO - Added job "send_daily_report" to job store "default"
+2026-03-29 21:42:39,032 - INFO - Scheduler started
+2026-03-29 21:42:39,035 - INFO - Running job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-29 22:42:38 CEST)" (scheduled at 2026-03-29 21:42:38.906253+02:00)
+2026-03-29 21:42:39,036 - INFO - Démarrage de la collecte...
+2026-03-29 21:42:45,367 - INFO - Shard ID None has connected to Gateway (Session ID: e681cfdc7370a15764bc79d03255f76f).
+2026-03-29 21:42:47,399 - INFO - Bot connecté en tant que FreeDeals#0833
+2026-03-29 21:42:48,281 - INFO - Collecte terminée
+2026-03-29 21:42:50,546 - INFO - Job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-29 22:42:38 CEST)" executed successfully
+2026-03-29 22:42:42,220 - WARNING - Run time of job "DealBot.run_collection (trigger: interval[1:00:00], next run at: 2026-03-29 23:42:38 CEST)" was missed by 0:00:03.011918
