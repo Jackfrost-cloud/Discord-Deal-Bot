@@ -44,30 +44,13 @@ async def scrape_reddit_feed(feed_url, source_name, game_name):
             })
     return items
 
-async def scrape_league_of_legends():
-    html = await fetch_html("https://www.reddit.com/r/leagueoflegends.rss")
-    soup = BeautifulSoup(html, 'html.parser')
-    items = []
-    for item in soup.select('item')[:3]:
-        title = item.select_one('title').text
-        if 'code' in title.lower() or 'redeem' in title.lower():
-            items.append({
-                'title': 'League of Legends',
-                'type': 'code',
-                'code': None,
-                'reward': title,
-                'url': item.select_one('link').text,
-                'source': 'Reddit LoL'
-            })
-    return items
-
 async def scrape_exchange_codes():
     tasks = [
         scrape_genshin_api(),
         scrape_reddit_feed("https://www.reddit.com/r/GenshinImpactTips.rss", "Reddit", "Genshin Impact"),
         scrape_reddit_feed("https://www.reddit.com/r/hoyolab.rss", "Reddit", "Hoyolab"),
         scrape_reddit_feed("https://www.reddit.com/r/pokemongo.rss", "Reddit", "Pokemon GO"),
-        scrape_league_of_legends()
+        scrape_reddit_feed("https://www.reddit.com/r/leagueoflegends.rss", "Reddit LoL", "League of Legends")
     ]
     results = await asyncio.gather(*tasks, return_exceptions=True)
     items = []

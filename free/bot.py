@@ -27,7 +27,7 @@ logging.basicConfig(
 )
 
 load_dotenv()
-TOKEN = os.getenv('TOKEN_DISCORD')
+TOKEN = os.getenv('DISCORD_TOKEN')
 
 class DealBot(discord.Client):
     def __init__(self):

@@ -1,0 +1,10 @@
+discord
+apscheduler
+datetime
+logging
+asyncio
+python-dotenv
+aiosqlite
+feedparser
+PyNaCl
+davey
