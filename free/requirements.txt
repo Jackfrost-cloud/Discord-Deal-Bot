@@ -8,3 +8,4 @@ aiosqlite
 feedparser
 PyNaCl
 davey
+flask>=3.0
