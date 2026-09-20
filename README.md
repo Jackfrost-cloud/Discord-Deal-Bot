@@ -6,7 +6,7 @@ Bot Discord qui collecte automatiquement codes promo, jeux gratuits et codes d'Ã
 
 1. **Cloner le projet**
    ```bash
-   git clone <repo>
+   git clone https://github.com/Jackfrost-cloud/Discord-Deal-Bot.git
    cd discord_deal_bot
    ```
 
